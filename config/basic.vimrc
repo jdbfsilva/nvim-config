@@ -1,6 +1,6 @@
 """""""""""" BASIC CONFIGURATION
 syntax on
-color codedark
+"color codedark
 
 set showmatch           " show matching brackets
 set encoding=utf-8 
