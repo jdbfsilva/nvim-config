@@ -18,5 +18,6 @@ Plug 'terryma/vim-multiple-cursors'
 Plug 'tpope/vim-eunuch'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
+Plug 'vimwiki/vimwiki'
 
 call plug#end()
