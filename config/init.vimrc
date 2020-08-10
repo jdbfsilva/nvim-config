@@ -19,5 +19,6 @@ Plug 'tpope/vim-eunuch'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
 Plug 'vimwiki/vimwiki'
+Plug 'ncm2/ncm2'
 
 call plug#end()
