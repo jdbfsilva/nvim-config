@@ -7,5 +7,5 @@ source $HOME/.config/nvim/config/keys.vimrc
 source $HOME/.config/nvim/config/tabs.vimrc
 "source $HOME/.config/nvim/config/cursor.vimrc
 source $HOME/.config/nvim/config/spaces.vimrc
-"source $HOME/.config/nvim/config/plugins.vimrc
+source $HOME/.config/nvim/config/plugins.vimrc
 "source $HOME/.config/nvim/config/status.vimrc
