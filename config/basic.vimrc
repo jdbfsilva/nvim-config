@@ -1,6 +1,10 @@
 """""""""""" BASIC CONFIGURATION
+set nocompatible
+filetype plugin on
 syntax on
-color codedark
+
+"color codedark
+color xcodelight
 
 set showmatch           " show matching brackets
 set encoding=utf-8 
@@ -16,4 +20,4 @@ set fileformat=unix
 set copyindent
 set wildmode=longest,list   " get bash-like tab completions
 set paste
-
+set colorcolumn=80 " vertical line at column 80
